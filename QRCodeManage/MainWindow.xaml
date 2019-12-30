@@ -1,0 +1,26 @@
+﻿<Window x:Class="QRCodeManage.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="二维码生成工具" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button   Grid.Row="0" Width="80"    Content="创建二维码" Click="CreatQRCode_Click" />
+            <Button   Grid.Row="0" Grid.Column="1" Width="80"    Content="查看二维码" Click="OpenQRCode_Click" />
+        </Grid>
+
+        <TextBox Grid.Row="1" Name="PrintCantent" Height="auto" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible"></TextBox>
+
+        <TextBox Grid.Row="2" Name="LogBox" Height="auto" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible"></TextBox>
+    </Grid>
+</Window>

@@ -1,0 +1,11 @@
+E:\代码\Web\MVC\GMS\bin\GMS.Core.Log.dll
+E:\代码\Web\MVC\GMS\bin\GMS.Core.Log.pdb
+E:\代码\Web\MVC\GMS\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.csprojResolveAssemblyReference.cache
+E:\代码\Web\MVC\GMS\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.dll
+E:\代码\Web\MVC\GMS\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\GMS\bin\GMS.Core.Log.dll.config
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\GMS\bin\GMS.Core.Log.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\GMS\bin\GMS.Core.Log.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\GMS\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\GMS\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\GMS\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.pdb

@@ -1,0 +1,10 @@
+E:\代码\Web\MVC\GMS\bin\GMS.Core.Cache.dll
+E:\代码\Web\MVC\GMS\bin\GMS.Core.Cache.pdb
+E:\代码\Web\MVC\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.csprojResolveAssemblyReference.cache
+E:\代码\Web\MVC\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.dll
+E:\代码\Web\MVC\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\GMS\bin\GMS.Core.Cache.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\GMS\bin\GMS.Core.Cache.pdb
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.dll
+D:\Documents\Visual Studio 2013\Source\Bitbucket_Git\GMS\Src\GMS.Core.Cache\obj\Debug\GMS.Core.Cache.pdb
